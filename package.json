@@ -1,0 +1,23 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "平时常用的脚本",
+  "main": "libs/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "rename": "node libs/rename/index.js demos/rename 逃避虽可耻但有用"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeZheng2015/scripts.git"
+  },
+  "keywords": [
+    "scripts"
+  ],
+  "author": "joezheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoeZheng2015/scripts/issues"
+  },
+  "homepage": "https://github.com/JoeZheng2015/scripts#readme"
+}
